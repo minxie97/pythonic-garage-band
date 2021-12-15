@@ -200,6 +200,7 @@ def test_from_file():
     assert nirvana.name == "Nirvana"
 
 #@pytest.mark.skip("stretch")
+# Thank you 'illusionx' from stackoverflow for showing me 'pip install pyyaml'
 def test_from_yaml():
     bands = yaml.safe_load(open("assets/bands.yml"))
 
