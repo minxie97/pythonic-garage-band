@@ -1,0 +1,39 @@
+-
+    name: Nirvana
+    members:
+        -
+            name: Kurt Cobain
+            instrument: guitar
+        -
+            name: Krist Novoselic
+            instrument: bass
+        -
+            name: Dave Grohl
+            instrument: drums
+-
+    name: The Pixies
+    members:
+        -
+            name: Black Francis
+            instrument: guitar
+        -
+            name: Kim Deal
+            instrument: bass
+-
+    name: Radiohead
+    members:
+        -
+            name: Thom Yorke
+            instrument: [vocals, guitar, piano, keyboards]
+        -
+            name: Jonny Greenwood
+            instruments: [guitar, keyboards, other instruments]
+        -
+            name: Colin Greenwood
+            instruments: bass
+        -
+            name: Ed O'Brien
+            instruments: [guitar, backing vocals]
+        -
+            name: Philip Selway
+            instruments: [drums, percussion]
